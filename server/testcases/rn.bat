@@ -1,0 +1,1 @@
+java -classpath C:\tcpip\server\libs\common.jar;C:\tcpip\server\build\libs\server.jar;. ServerApplication
